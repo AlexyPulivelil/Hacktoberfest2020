@@ -46,3 +46,7 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [tvibhu12](https://github.com/tvibhu12)
+  #### Name: [Alexy P Thomas](https://github.com/AlexyPulivelil)
+ - Place: Kerala, India
+ - Bio: Btech at CUSAT
+ - GitHub: [AlexyPulivelil](https://github.com/AlexyPulivelil)
